@@ -54,7 +54,7 @@ MainWindow::~MainWindow()
 void MainWindow::on_Dodaj_clicked()
 {
 
-
+//kom
         QString source = "test.json";
         QFile testFile(source);
         QString readData;
