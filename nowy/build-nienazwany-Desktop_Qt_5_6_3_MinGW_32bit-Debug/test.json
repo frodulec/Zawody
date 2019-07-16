@@ -1,0 +1,75 @@
+﻿{
+  "PucharMazowsza": {
+    "Informacje": {
+      "Data": "12-15.10.2018",
+      "Miejsce": "Warszawa"
+    },
+    "Sędziowie": {
+      "sędzia główny": "Katarzyna Klepacz-Bartoszek",
+      "sędzia stanowiskowy": "Jakub Kraśniewski"
+    },
+    "konkurencje": {
+      "10m Pistolet pneumatyczny 60 strzałów - seniorzy": {
+        "Michał Kwiatkowski": {
+          "s1": 53.2,
+          "s2": 90,
+          "s3": 102.5
+        },
+        "Rafał Majka": {
+          "s1": 100,
+          "s2": 90,
+          "s3": 88.3
+        }
+      },
+      "10m Pistolet pneumatyczny 60 strzałów - seniorki": {
+        "Marta Barszczak": {
+          "s1": 53.2,
+          "s2": 234,
+          "s3": 102.5
+        },
+        "Barbara Wojcieszak": {
+          "s1": 453,
+          "s2": 90,
+          "s3": 88.3
+        }
+      }
+
+    }
+  },
+  "MistrzostwaPucka": {
+    "Informacje": {
+      "Data": "12-15.10.2017",
+      "Miejsce": "Puck"
+    },
+    "konkurencje": {
+      "10m Pistolet pneumatyczny 60 strzałów - seniorki": {
+        "Barbara 45634ehed3": {
+          "s1": 453,
+          "s2": 90,
+          "s3": 88.3
+        },
+        "Marta 3547623478328": {
+          "s1": 53.2,
+          "s2": 234,
+          "s3": 102.5
+        }
+      },
+      "10m Pistolet pneumatyczny 60 strzałów - seniorzy": {
+        "Michał 23456789": {
+          "s1": 53.2,
+          "s2": 90,
+          "s3": 102.5
+        },
+        "Rafał Majka": {
+          "s1": 100,
+          "s2": 90,
+          "s3": 88.3
+        }
+      }
+    },
+    "Sędziowie": {
+      "sędzia główny": "124567jhgfdf",
+      "sędzia stanowiskowy": "Jfsaeffgsfgs"
+    }
+  }
+}
